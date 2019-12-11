@@ -1,1 +1,1 @@
-
+cat ~/.ssh/github_rsa.pub
