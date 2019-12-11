@@ -1,0 +1,8 @@
+キー作成
+ssh-keygen -t rsa
+
+プライベートキーとグローバルキーがあるのかの確認
+ls -al ~/.ssh
+
+sshkey 確認 
+cat ~/.ssh/github_rsa.pub
